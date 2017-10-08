@@ -28,7 +28,7 @@ END_LEGAL */
 /// @ingroup INIT
 ///   This is the call to initialize the XED encode and decode tables. It
 ///   must be called once before using XED.
-void XED_DLL_EXPORT  xed_tables_init(void);
+XED_DLL_EXPORT void xed_tables_init(void);
 
 ////////////////////////////////////////////////////////////////////////////
 
